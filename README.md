@@ -1,4 +1,4 @@
-# Open3DRISCV（V-Rio）——the Open Source 3D RISC-V Processor
+# Open3DRISCV（V-Rio）——the First Open Source 3D RISC-V Processor
 
 **1 Overview**
 
