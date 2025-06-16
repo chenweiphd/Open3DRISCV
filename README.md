@@ -69,9 +69,9 @@ NoC refrence：https://github.com/RV-BOSC/OpenNoC/tree/master
 **1.2 Block Diagram**
 
 
-![image](https://github.com/user-attachments/assets/dd0d459e-771d-474d-bda9-e89073ca490e)
+![image-20250616154337473](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20250616154337473.png)
 
-![image](https://github.com/user-attachments/assets/630b4d17-9d25-41e1-a343-ef3cd9bc4fe6)
+
 
 
 **1.3 Major Components**
