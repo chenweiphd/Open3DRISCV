@@ -4,6 +4,8 @@
 
 This 3D RISC-V CPU（We call it V-Rio）is a template of a serise of 3D CPU. One could contain 1 to several banks of CPU cores， from small silicon area to large size. Each bank contains 16 RISC-V cores and 4 V-Cache die.
 
+![image-20250616130555875](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20250616130555875.png)
+
 Core: 16NB cores（NB means Number of Banks） with 64bit data width, 12 stage pipeline with 3 Issues/ 8 execution， support RV64GC instruction set. 
 
 NoC: support AMBA CHI protocal with verion 0050E.b，implement HN-F, HN-I, RN-I, SN-F and XP.
@@ -66,7 +68,7 @@ NoC refrence：https://github.com/RV-BOSC/OpenNoC/tree/master
 
 **1.2 Block Diagram**
 
- 
+
 ![image](https://github.com/user-attachments/assets/dd0d459e-771d-474d-bda9-e89073ca490e)
 
 ![image](https://github.com/user-attachments/assets/630b4d17-9d25-41e1-a343-ef3cd9bc4fe6)
