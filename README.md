@@ -2,7 +2,7 @@
 
 **1 Overview**
 
-This 3D RISC-V CPU（We call it V-Rio）is a template of a serise of 3D CPU. One could contain 1 to several banks of CPU cores， from small silicon area to large size. Each bank contains 16 RISC-V cores and 4 V-Cache die.
+This 3D RISC-V CPU（We call it V-Rio）is a template of a serise of 3D CPU. One could contain 1 to several banks of CPU cores， from small silicon area to large size. Each bank contains 16 RISC-V cores and many V-Cache die.
 
 ![image-20250616130555875](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20250616130555875.png)
 
