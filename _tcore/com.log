@@ -1,0 +1,62 @@
+Command: vcs -full64 -sverilog -debug_access+all -kdb -f filelist.f -l com.log
+                         Chronologic VCS (TM)
+       Version O-2018.09-SP2_Full64 -- Tue Nov 18 15:00:23 2025
+               Copyright (c) 1991-2018 by Synopsys Inc.
+                         ALL RIGHTS RESERVED
+
+This program is proprietary and confidential information of Synopsys Inc.
+and may be used and disclosed only as authorized in a license agreement
+controlling such use and disclosure.
+
+Parsing design file './common_cell/bin2one.v'
+Parsing design file './common_cell/clz.v'
+Parsing design file './common_cell/clz_49.v'
+Parsing design file './common_cell/dualportSRAM.v'
+Parsing design file './common_cell/far_path.v'
+Parsing design file './common_cell/fifo.v'
+Parsing design file './common_cell/fifo_with_count.v'
+Parsing design file './common_cell/fifo_with_flush.v'
+Parsing design file './common_cell/find_first.v'
+Parsing design file './common_cell/fixed_pri_arb.v'
+Parsing design file './common_cell/input_reverse.v'
+Parsing design file './common_cell/lza.v'
+Parsing design file './common_cell/near_path.v'
+Parsing design file './common_cell/one2bin.v'
+Parsing design file './common_cell/pop_cnt.v'
+Parsing design file './common_cell/rounding.v'
+Parsing included file 'define.v'.
+Back to file './common_cell/rounding.v'.
+Parsing design file './common_cell/round_robin_arb.v'
+Parsing included file 'define.v'.
+Back to file './common_cell/round_robin_arb.v'.
+Parsing design file './common_cell/shift_right_jam.v'
+Parsing design file './common_cell/stream_fifo.v'
+Parsing design file './common_cell/stream_fifo_flow_true.v'
+Parsing design file './common_cell/stream_fifo_hasflush_true.v'
+Parsing design file './common_cell/stream_fifo_hasflush_true_no_empty_full.v'
+Parsing design file './common_cell/stream_fifo_pipe_true.v'
+Parsing design file './common_cell/stream_fifo_pipe_true_has_flush.v'
+Parsing design file './common_cell/stream_fifo_pipe_true_with_count.v'
+Parsing design file './common_cell/stream_fifo_useSRAM.v'
+Parsing design file './common_cell/stream_fifo_useSRAM_with_count.v'
+Parsing design file './common_cell/stream_fifo_with_incount_useSRAM.v'
+Parsing design file './define.v'
+Parsing design file './fadd_s1.v'
+Parsing design file './fadd_s2.v'
+Parsing included file 'define.v'.
+Back to file './fadd_s2.v'.
+Parsing design file './fmul_s1.v'
+Parsing design file './fmul_s2.v'
+Parsing design file './fmul_s3.v'
+Parsing included file 'define.v'.
+Back to file './fmul_s3.v'.
+
+Error-[SFCOR] Source file cannot be opened
+  Source file "./naivemultiplier.v" cannot be opened for reading due to 'No 
+  such file or directory'.
+  Please fix above issue and compile again.
+  
+  
+
+1 error
+CPU time: .602 seconds to compile
